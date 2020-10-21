@@ -107,6 +107,7 @@ Nach einem Klick eröffnen sich dir dort noch weitere Möglichkeiten:
   clients/leoclient2/index
   clients/linbo/index
   clients/postsync/index
+  clients/1to1client/index
 
 .. toctree::
   :maxdepth: 2
